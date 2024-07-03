@@ -21,7 +21,7 @@ Manual: Open "VTOL-VR Radio Shuffle.exe". There you'll be met with a nice lookin
 Semi-Auto: There's a second .exe file, named "VTOL-VR Auto Radio Shuffle.exe". It's used for the automatic shuffle that will be configurated in the manual .exe file, but technically you can use this file for shuffle too.
 
 # Process Automation
-To fully automate the process, you need to open the manual .exe file, and choose the forth option, which is "Automate Process". There you'll be asked to enter VTOL VR path. Just give the path to the folder where the game's .exe file is. That's it.
+To fully automate the process, you need to open the manual .exe file, and choose the forth option, which is "Automate Process". There you'll be asked to enter VTOL VR path. Just give the path to the folder where the game's .exe file is. That's it. Then just add a side game and link it to AutoOpen.exe
 
 # Code
 Even though the code is open source, I REALLY don't recommend you looking at it. My task was to make it work. Not to make it look good. You might lose your faith in humanity if you didn't lose it already.
