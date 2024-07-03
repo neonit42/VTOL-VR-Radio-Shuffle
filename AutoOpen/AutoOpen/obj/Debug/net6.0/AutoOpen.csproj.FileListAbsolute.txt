@@ -1,0 +1,15 @@
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\bin\Debug\net6.0\AutoOpen.exe
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\bin\Debug\net6.0\AutoOpen.deps.json
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\bin\Debug\net6.0\AutoOpen.runtimeconfig.json
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\bin\Debug\net6.0\AutoOpen.dll
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\bin\Debug\net6.0\AutoOpen.pdb
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\obj\Debug\net6.0\AutoOpen.csproj.AssemblyReference.cache
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\obj\Debug\net6.0\AutoOpen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\obj\Debug\net6.0\AutoOpen.AssemblyInfoInputs.cache
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\obj\Debug\net6.0\AutoOpen.AssemblyInfo.cs
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\obj\Debug\net6.0\AutoOpen.csproj.CoreCompileInputs.cache
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\obj\Debug\net6.0\AutoOpen.dll
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\obj\Debug\net6.0\refint\AutoOpen.dll
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\obj\Debug\net6.0\AutoOpen.pdb
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\obj\Debug\net6.0\AutoOpen.genruntimeconfig.cache
+C:\Users\neoni\OneDrive\Рабочий стол\C#\AutoOpen\AutoOpen\obj\Debug\net6.0\ref\AutoOpen.dll
