@@ -8,7 +8,7 @@ With this you can shuffle your radio songs with ease, and even make the process 
 # Installation
 All you need to do is to unzip the zip file into the RadioMusic folder in your VTOL VR directory.
 
-It should look something like that:
+It should look something like this:
 steamapps/common/VTOL VR/RadioMusic/VTOL-VR Radio Shuffle
 
 That's pretty much it.
