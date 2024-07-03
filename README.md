@@ -3,7 +3,7 @@ Easy to use radio shuffle for VTOL VR with an option for the process automation!
 
 
 # Description
-With this you can shuffle your radio songs with ease, and even make the process automatical.
+With this you can shuffle your radio songs with ease, and even make the process automatic.
 
 # Installation
 All you need to do is to unzip the zip file into the RadioMusic folder in your VTOL VR directory.
