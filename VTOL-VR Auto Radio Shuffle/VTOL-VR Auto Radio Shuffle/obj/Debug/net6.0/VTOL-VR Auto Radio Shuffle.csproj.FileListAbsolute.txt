@@ -1,0 +1,15 @@
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\bin\Debug\net6.0\VTOL-VR Auto Radio Shuffle.exe
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\bin\Debug\net6.0\VTOL-VR Auto Radio Shuffle.deps.json
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\bin\Debug\net6.0\VTOL-VR Auto Radio Shuffle.runtimeconfig.json
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\bin\Debug\net6.0\VTOL-VR Auto Radio Shuffle.dll
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\bin\Debug\net6.0\VTOL-VR Auto Radio Shuffle.pdb
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\obj\Debug\net6.0\VTOL-VR Auto Radio Shuffle.csproj.AssemblyReference.cache
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\obj\Debug\net6.0\VTOL-VR Auto Radio Shuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\obj\Debug\net6.0\VTOL-VR Auto Radio Shuffle.AssemblyInfoInputs.cache
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\obj\Debug\net6.0\VTOL-VR Auto Radio Shuffle.AssemblyInfo.cs
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\obj\Debug\net6.0\VTOL-VR Auto Radio Shuffle.csproj.CoreCompileInputs.cache
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\obj\Debug\net6.0\VTOL-VR Auto Radio Shuffle.dll
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\obj\Debug\net6.0\refint\VTOL-VR Auto Radio Shuffle.dll
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\obj\Debug\net6.0\VTOL-VR Auto Radio Shuffle.pdb
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\obj\Debug\net6.0\VTOL-VR Auto Radio Shuffle.genruntimeconfig.cache
+C:\Users\neoni\OneDrive\Рабочий стол\C#\VTOL-VR Auto Radio Shuffle\VTOL-VR Auto Radio Shuffle\obj\Debug\net6.0\ref\VTOL-VR Auto Radio Shuffle.dll
